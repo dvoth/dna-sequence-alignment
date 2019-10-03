@@ -1,0 +1,2 @@
+> Another affine example, seq 2
+ACTA

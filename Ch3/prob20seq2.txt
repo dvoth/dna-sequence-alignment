@@ -1,0 +1,2 @@
+> Sequence w from Problem 6.20 of Jones and Pevzner
+GGACGTACG

@@ -1,0 +1,15 @@
+MATRIX:
+    A T C 
+  0 0 0 0 
+C 0 0 0 1 
+A 0 1 0 0 
+T 0 0 2 1 
+G 0 0 1 1 
+Backtrack path is DD
+Forwards path is DD
+
+Aligned Sequences: 
+AT
+
+AT
+

@@ -1,0 +1,2 @@
+> This is "MISSISSIPPI" in nucleotides with M->T, I->A, S->C, P->G
+TACCACCAGGA

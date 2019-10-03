@@ -1,0 +1,2 @@
+>Test Sequence 2 for global alignment
+CGCA

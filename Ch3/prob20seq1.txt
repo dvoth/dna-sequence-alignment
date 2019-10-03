@@ -1,0 +1,2 @@
+> Sequence v from Problem 6.20 of Jones and Pevzner
+TACGGGTAT

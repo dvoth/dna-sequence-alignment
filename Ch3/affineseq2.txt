@@ -1,0 +1,2 @@
+> Affine example from slide, seq 2
+ACACT

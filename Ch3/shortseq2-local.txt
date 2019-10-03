@@ -1,0 +1,2 @@
+>Test Sequence 2 for local alignment
+TAAAGCAATTTTGGTTTTTTTCCGA
